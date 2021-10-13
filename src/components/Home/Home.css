@@ -1,0 +1,72 @@
+body {
+  background-color: rgba(255, 228, 196, 0.692);
+}
+
+.main-home-div {
+  margin-bottom: 40px;
+}
+
+.home-div {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  /* border-bottom: 3px solid gray; */
+}
+.describe-div {
+  border-right: 2px solid gray;
+  margin-left: 10px;
+  padding: 10px;
+}
+.popular-courses-sec {
+  background-color: cadetblue;
+  padding: 15px;
+  
+ padding: 30px;
+ border-bottom: 2px solid gray;
+}
+.welcome{
+  font-weight: 700;
+  color: rgb(103, 119, 9);
+  text-shadow:2px 2px black;
+  text-align: center;
+  transition: transform 1s ease-out;
+  /* font-size: 20px; */
+}
+.welcome:hover{
+  transform:scale(1.07);
+  
+}
+.popular-tex{
+  font-weight: 900;
+  color: #ff7b00;
+  text-shadow:2px 2px black;
+}
+.courses-text{
+  font-weight: 900;
+  color: rgb(128, 13, 223);
+  text-shadow:2px 2px black;
+
+}
+.objectives {
+  color: darkblue;
+}
+.home-detail {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+.Carousels-section {
+  margin: 20px;
+}
+.site-description{
+    margin: 20px;
+    
+
+}
+.Why-learn{
+  color: rgb(103, 119, 9);
+  text-shadow:2px 2px black;
+}
+
+

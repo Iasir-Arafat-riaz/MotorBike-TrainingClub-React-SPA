@@ -1,0 +1,13 @@
+.categories{
+    text-align: center;
+    font-weight: 800;
+    color: crimson;
+    text-shadow: 2px 2px black;
+    transition: transform 1s ease-out;
+}
+.categories:hover{
+    transform:scale(1.07);
+}
+.category-section{
+    margin-top: 40px;
+}

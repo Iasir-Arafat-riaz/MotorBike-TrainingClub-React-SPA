@@ -1,0 +1,21 @@
+.category-img{
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 150px;
+}
+.category{
+    text-align: center;
+}
+.category-card{
+    background-color: rgba(95, 158, 160, 0.795);
+    height: 550px;
+   
+    /* border: 2px solid black; */
+}.course-id{
+    color: crimson;
+    text-shadow: 1px 1px black;
+    margin-top: 20px;
+}
